@@ -1,0 +1,111 @@
+﻿.top_line {
+    height: 2px;
+    background-color: #e1e1e1;
+}
+
+.title_site {
+    background-color: white;
+    height: 70px;
+}
+
+    .title_site h2 {
+        float: left;
+    }
+
+    .title_site img {
+        width: 70px;
+        height: 70px;
+        float: left;
+        margin-right: 35px;
+    }
+
+    .title_site div {
+        margin: 22px 0;
+        float: right;
+    }
+
+        .title_site div span {
+            font-size: 20px;
+            margin-left: 30px;
+        }
+
+        .title_site div input {
+            width: 185px;
+            float: left;
+            height: 25px;
+            margin-right: 4em;
+            margin-left: 1em;
+        }
+
+
+.form_registration input {
+    margin: 14px 0;
+}
+
+.form_registration .modal-dialog {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.form_edit .modal-dialog {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.form_registration .modal-footer {
+    text-align: center;
+}
+
+.form_edit .modal-footer button {
+    width: 140px;
+}
+
+.form_edit .modal-footer {
+    text-align: center;
+}
+
+    .form_edit .modal-footer button {
+        width: 140px;
+    }
+
+.itemTask {
+    padding: 10px 8px;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 700px;
+    border: 1px solid;
+}
+
+.list_title {
+    margin-top: 20px;
+}
+
+    .list_title div h2 {
+        text-align: center;
+        display: inline;
+    }
+
+.title_task {
+    font-size: 26px;
+    text-align: center;
+    line-height: 1.6em;
+    margin-bottom: 8px;
+}
+
+.description_task {
+    margin-top: 4px;
+}
+
+.date_modification {
+    height: 30px;
+    padding: 0 20px;
+    text-align: right;
+}
+
+    .date_modification span {
+        color: gray;
+    }
+
+.paginationStyle {
+    border: 1px solid;
+}
